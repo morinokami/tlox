@@ -1,0 +1,11 @@
+{
+  "name": "tlox",
+  "version": "0.0.0",
+  "type": "module",
+  "private": true,
+  "workspaces": ["packages/*"],
+  "scripts": {},
+  "devDependencies": {
+    "@biomejs/biome": "^1.6.2"
+  }
+}
